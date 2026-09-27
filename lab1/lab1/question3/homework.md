@@ -26,13 +26,12 @@ and the changes are visible immediately. **Markdown** isn’t like that. When yo
 * Linux: ReText or ghostwriter
 
 ## Notes Taking Apps
-
-Linux  
-    Joplin  
-    Obsidian  
-Windows  
-    Typora  
-    Notion  
-macOS  
-    Ulysses  
-    Craft  
+* Linux
+    * Joplin
+    * Obsidian  
+* Windows 
+    * Typora
+    * Notion  
+* macOS  
+    * Ulysses  
+    * Craft  
