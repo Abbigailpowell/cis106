@@ -2,7 +2,7 @@
 
 ## 1. What is a graphical user interface (GUI)?
 
-A **graphical user interface (GUI)** is a way of using a computer by interacting with things you can see on the screen. Instead of typing commands, you can use windows, icons, menus, and a mouse or keyboard.
+A **graphical user interface (GUI)** is a set of programs that allows a user to interact with the computer system via icons, windows, and various other visual elements.
 
 **Example**
 * Clicking on a folder to open it
@@ -11,12 +11,11 @@ A **graphical user interface (GUI)** is a way of using a computer by interacting
 
 ## 2. What is a desktop environment?
 
-A **desktop environment** is the part of a Linux system that provides the graphical desktop that the user interacts with. It includes things like windows, menus, icons, and applications.
+A **desktop environment** is an implementation of the desktop metaphor made of a bunch of programs running on top of a computer operating system which share a graphical shell.It includes things like windows, menus, icons, and applications.
 
 **Example**
 * GNOME
-* KDE Plasma
-* Xfce
+* KDE
 
 ## 3. What is the command line interface (CLI)?
 
@@ -31,24 +30,23 @@ This command displays the current date and time.
 
 ## 4. How do I access the command line interface (CLI)?
 
-There are several ways to access the command line in Linux. You can open a **terminal emulator** from the graphical desktop. You can also use a **virtual console** by switching to another console using a keyboard shortcut.
-From a Linux desktop, you can open the Terminal application  and start typing commands.
+There are several ways to access the command line in Linux. You can open a **terminal emulator** from the graphical desktop. You can also use a **linus console** because it is a direct interface to the linux system.
+
 **Example**
 ls -l /home/user
 
 ## 5. What is a virtual console?
 
-A **virtual console** is a text-based way to access Linux without using the graphical desktop. Linux can have multiple virtual consoles running at the same time. A virtual console can be useful if the graphical interface is not working or if you need to work directly from the command line.
+A **virtual console** is a terminal session that runs in linux system memory.
 
 ## 6. What is a terminal emulator?
 
-A **terminal emulator** is a program that gives you access to the command line while you are using a graphical desktop.
+A **terminal emulator** is a program that gives you access to the linux CLI when using the GUI.
 
 **Examples**
 * GNOME Terminal
 * Konsole
-* xterm
-
+* Kitty
 The terminal emulator lets you type commands and see the results without leaving the graphical desktop.
 
 ## 7. What is bash?
@@ -58,7 +56,6 @@ The terminal emulator lets you type commands and see the results without leaving
 **Example**
 bash
 echo Hello
-
 This tells Bash to display the word `Hello`.
 
 ## 8. What is the shell prompt?
@@ -67,7 +64,7 @@ The **shell prompt** is the text shown in the terminal that tells you the shell 
 
 **Example**
 bash
-$
+->
 When you see the prompt, you can type a command and press Enter.
 
 # Linux Commands
