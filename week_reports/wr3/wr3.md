@@ -1,8 +1,10 @@
 # Week Report 3
 ## Completed work for week 3
 * Link to lab3.md
+[Lab3.md](https://github.com/Abbigailpowell/cis106/blob/main/labs/lab3/lab3.md)
 
 * Link to notes3.md
+[Notes3.md](https://github.com/Abbigailpowell/cis106/blob/main/notes/notes3/notes3.md)
 
 ## Practice Screenshots
 ### Practice 3
