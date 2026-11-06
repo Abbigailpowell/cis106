@@ -45,7 +45,7 @@ The apt install command installs software from the configured package repositori
 
 **For example**, to install the bastet package:
 
-sudo apt install bastet
+' sudo apt install bastet' 
 
 To install more than one package in the same command:
 
