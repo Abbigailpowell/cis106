@@ -63,7 +63,7 @@ This displays the first 10 lines of `notes.txt`.
 
 **Example 2: Display the first 5 lines.**
 
-`head -n 5 notes.txt`
+`head -5 notes.txt`
 
 This displays only the first 5 lines.
 
@@ -86,7 +86,7 @@ This displays the last 10 lines of `notes.txt`.
 
 **Example 2: Display the last 5 lines.**
 
-`tail 5 notes.txt`
+`tail -5 notes.txt`
 
 This displays only the last 5 lines.
 
